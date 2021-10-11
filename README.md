@@ -7,8 +7,12 @@ V.Isualize has given me the following tasks to help them create a summary DataFr
 
 1/ A ride-sharing summary DataFrame by city type
 
-* Overall, Urban had the most number of rides, most driver, but the lowest average fare per ride.
+* Overall, Urban had the most numbers of rides, most driver and total fare, but the lowest average fare per ride and per driver.
 
-* 
+* Rural had the highest average fare per ride and per driver, but the lowest numbers of rides, driver and total fares
 
 ![image](https://user-images.githubusercontent.com/89699219/136706368-f3f35e5c-6b73-4a15-8760-de2a05472616.png)
+
+2/ Total fares of each city type
+
+
